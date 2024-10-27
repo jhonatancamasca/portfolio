@@ -1,0 +1,16 @@
+[theme]
+
+# Primary accent for interactive elements
+primaryColor = '#4CAF50'  # Calming green for interactives, signifying growth and technology
+
+# Background color for the main content area
+backgroundColor = '#1E1E2F'  # Dark slate for reduced eye strain and a modern aesthetic
+
+# Background color for sidebar and most interactive widgets
+secondaryBackgroundColor = '#282A36'  # Slightly lighter dark background to create depth
+
+# Color used for almost all text
+textColor = '#E0E0E0'  # Light grey for a softer contrast against the dark background
+
+# Font family for all text in the app, except code blocks
+font = "monospace"  # Monospace for a tech-focused feel that aligns with coding aesthetics
